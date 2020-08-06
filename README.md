@@ -11,6 +11,7 @@
 ### 7) Share your repository link
 
 ### Optional:
+
 - Research: Find how to link your a Javascript file
 
 Happy coding 🇨🇴
