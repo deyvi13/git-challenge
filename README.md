@@ -10,7 +10,7 @@
 ### 6) Create one pull request per branch
 ### 7) Share your repository link
 
-### Optional:
+## Optional:
 
 - Research: Find how to link your a Javascript file
 
